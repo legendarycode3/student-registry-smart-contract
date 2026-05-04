@@ -18,7 +18,7 @@
 
 ## Usage Guide (How it works)
 
-## Why This Matters (Voting Smart Contract)
+## Why This Matters (Student Smart Contract)
 
 ## Foundry
 
