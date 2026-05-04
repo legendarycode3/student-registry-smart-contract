@@ -26,7 +26,7 @@
 ## 📋Contract Details
 ### Functions:
 * ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier
-* ****`editStudent()`****:
+* ****`editStudent()`****: Function for editing an existing student 
 
 ## Usage Guide (How it works)
 
