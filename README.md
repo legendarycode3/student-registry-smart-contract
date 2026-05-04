@@ -1,5 +1,6 @@
 # 🧑‍🎓 Student Smart Contract
 
+## Project Overview
 
 ## Foundry
 
