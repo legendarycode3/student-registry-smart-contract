@@ -8,6 +8,7 @@
 * ****Struct:**** Sets the user or student details in one collection.
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****Mapping:**** For tracking a student details using their address.
+* ****Modifier::**** 
 
 ## 📂 Project Structure (Files)
 
