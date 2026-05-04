@@ -25,6 +25,7 @@
 
 ## 📋Contract Details
 ### Functions:
+* ****`addStudent()`****:
 
 ## Usage Guide (How it works)
 
