@@ -14,7 +14,7 @@
 * ****msg.sender:**** Records who owns the registry(e.g the `owner`).
 
 ## 📂 Project Structure (Files)
-* `StudentRegistry.sol`:
+* ****`StudentRegistry.sol`****: : The main contract implementing addStudent  and vote functions.
 
 ## 🌐Technology Stack (Technologies Used)
 
