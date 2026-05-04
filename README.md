@@ -5,6 +5,7 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
+* ****Struct:****
 
 ## 📂 Project Structure (Files)
 
