@@ -5,9 +5,9 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
-* ****Struct:**** Sets the user or voter details in one collection.
+* ****Struct:**** Sets the user or student details in one collection.
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
-* ****Mapping:****
+* ****Mapping:**** For tracking a student details using their address.
 
 ## 📂 Project Structure (Files)
 
