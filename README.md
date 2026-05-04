@@ -15,6 +15,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`StudentRegistry.sol`****: : The main contract implementing addStudent, editStudent and getStudentDetails functions.
+* ****`StudentRegistry.t.sol`****:
 
 ## 🌐Technology Stack (Technologies Used)
 
