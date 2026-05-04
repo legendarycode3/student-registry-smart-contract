@@ -7,6 +7,7 @@
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or voter details in one collection.
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
+* ****Mapping:****
 
 ## 📂 Project Structure (Files)
 
