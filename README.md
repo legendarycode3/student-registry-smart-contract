@@ -35,5 +35,7 @@ $ forge fmt
 $ forge snapshot
 ```
 
+## Author
+
 ##  If you find this project helpful, please give it a star and link back to this repository. 
 `I Appreciate`
