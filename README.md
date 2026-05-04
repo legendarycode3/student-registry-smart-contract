@@ -14,6 +14,7 @@
 * ****msg.sender:**** Records who owns the registry(e.g the `owner`).
 
 ## 📂 Project Structure (Files)
+* `StudentRegistry.sol`:
 
 ## 🌐Technology Stack (Technologies Used)
 
