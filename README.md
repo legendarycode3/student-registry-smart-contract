@@ -5,7 +5,7 @@
 ## 📌 Features
 
 ## 🧠 Key Concepts Applied
-* ****Struct:****
+* ****Struct:**** Sets the user or voter details in one collection.
 
 ## 📂 Project Structure (Files)
 
