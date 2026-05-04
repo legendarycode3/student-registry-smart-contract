@@ -1,4 +1,4 @@
-## Student Smart Contract
+# 🧑‍🎓 Student Smart Contract
 
 
 ## Foundry
