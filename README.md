@@ -6,6 +6,7 @@
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or voter details in one collection.
+* ****Constructor:**** 
 
 ## 📂 Project Structure (Files)
 
