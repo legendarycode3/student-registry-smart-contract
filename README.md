@@ -25,7 +25,7 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`addStudent()`****: Function adds a new student if not existing and also inherit
+* ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier
 
 ## Usage Guide (How it works)
 
