@@ -24,6 +24,7 @@
 ## Usage
 
 ## 📋Contract Details
+### Functions:
 
 ## Usage Guide (How it works)
 
