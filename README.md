@@ -25,8 +25,8 @@
 
 ## 📋Contract Details
 ### Functions:
-* ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier
-* ****`editStudent()`****: Function for editing an existing student 
+* ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier.
+* ****`editStudent()`****: Function for editing an existing student. Only can be the done by the owner of the contract or admistrator.
 
 ## Usage Guide (How it works)
 
