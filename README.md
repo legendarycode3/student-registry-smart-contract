@@ -15,7 +15,7 @@
 
 ## 📂 Project Structure (Files)
 * ****`StudentRegistry.sol`****: : The main contract implementing addStudent, editStudent and getStudentDetails functions.
-* ****`StudentRegistry.t.sol`****:
+* ****`StudentRegistry.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
 
