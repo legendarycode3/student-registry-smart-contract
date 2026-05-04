@@ -8,7 +8,7 @@
 
 ## 📂 Project Structure (Files)
 
-##  Technology Stack (Technologies Used)
+## 🌐Technology Stack (Technologies Used)
 
 ## Getting Started
 
