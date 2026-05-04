@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student Smart Contract
+# 🧑‍🎓 Student Registry Smart Contract
 
 ## Project Overview
 
@@ -8,7 +8,7 @@
 * ****Struct:**** Sets the user or student details in one collection.
 * ****Constructor:**** Sets the address that deploys the contract as the owner.
 * ****Mapping:**** For tracking a student details using their address.
-* ****Modifier::**** 
+* ****Modifier:****  Access-Control for onlyOwner of the registry to access the details.
 
 ## 📂 Project Structure (Files)
 
