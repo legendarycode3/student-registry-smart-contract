@@ -5,7 +5,9 @@
 ## 📌 Features
 * ****Student Registration:**** Authorized Users can can add students.
 * ****Track Student Records:**** Student details can be tracked using just their address.
-* ****Registered Students:**** All registered students on the system can be tracked. 
+* ****Access Control:****
+* ****Registered Students:**** All registered students on the system can be tracked.
+* 
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or student details in one collection.
