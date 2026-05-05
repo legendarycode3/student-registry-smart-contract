@@ -54,9 +54,8 @@
       cd student-registry-smart-contract
     ```
 3.   Compile the smart contract:
-   ```shell
-     forge build
-    ```
+     `forge build`
+    
 
 ### Testing the contract (Using Foundry Development Kit ) 
 Runing all tests:
