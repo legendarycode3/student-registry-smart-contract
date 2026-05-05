@@ -75,8 +75,8 @@ Runing specific test:
 
 ### Variables:
 * ****`studentRecords`****: Maps an address to a Student details.
-* ****`i_owner`****: Stores the address of the contract deployer.
-* ****`studentAddress`****:
+* ****`i_owner`****: Stores the address of the contract deployer. 
+* ****`studentAddress`****: Keeps track of all registered students.
 
 ## Usage Guide (How it works)
 
