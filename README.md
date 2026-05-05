@@ -75,7 +75,7 @@ Runing specific test:
 
 ### Variables:
 * ****`studentRecords`****:
-* ****`i_owner`****: Stores the address of the contract deployer
+* ****`i_owner`****: Stores the address of the contract deployer.
 
 ## Usage Guide (How it works)
 
