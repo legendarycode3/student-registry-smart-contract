@@ -24,7 +24,7 @@
 * ****`StudentRegistry.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
-* [Solidity](https://www.soliditylang.org/) 
+* ****[Solidity](https://www.soliditylang.org/)**** 
 * ****Solidity**** - The programming language for writing the Smart contracts.
 * ****RemixIDE:**** - used it to write, and deploy the smart contract directly in the browser first. A fastest way to get started, acting as a "no-setup" workshop for smart contract development.
 * ****Foundry(forge, cast, anvil)
