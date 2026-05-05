@@ -53,7 +53,7 @@
     ```shell
       cd student-registry-smart-contract
     ```
-4.   dd
+3.   Compile the smart contract:
 
 ## 📋Contract Details
 ### Functions:
