@@ -91,7 +91,7 @@ Student registry smart contracts are crucial in web3 blockchain systems because:
 2. By leveraging blockchain technology, these contracts ensure academic data. Such  as diplomas, transcripts, and certifications—remain accurate, immutable, and easily verifiable, reducing fraud and empowering students to own their academic identities.
 
 ## Security Considerations
-* ****Ownership Restriction:****
+* ****Ownership Restriction:**** Only the contract owner can transfer ownership.
 
 ## Foundry
 
