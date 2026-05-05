@@ -74,6 +74,7 @@ Runing specific test:
 * ****`editStudent()`****: Function for editing an existing student. Only can be the done by the owner of the contract or admistrator.
 
 ### Variables:
+* ****`studentRecords`****:
 
 ## Usage Guide (How it works)
 
