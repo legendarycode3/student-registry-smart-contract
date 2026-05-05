@@ -1,7 +1,8 @@
 # 🧑‍🎓 Student Registry Smart Contract
 
 ## Project Overview
-A smart contract that manages student registration, Edit existing student data, and also display the student details for a particular student , using their specific  address (as an ID).
+A smart contract that manages student registration, Edit existing student data, and also display the student details for a particular student , using their specific  address (as an ID). </br>
+This smart contract allows managing a registry of students only by authorised admistrator.
 
 ## 📌 Features
 * ****Student Registration:**** Authorized Users can can add students.
