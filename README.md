@@ -90,6 +90,8 @@ Student registry smart contracts are crucial in web3 blockchain systems because:
 1. They replace traditional, vulnerable, and siloed record-keeping with a decentralized, tamper-proof, and autonomous ledger.
 2. By leveraging blockchain technology, these contracts ensure academic data. Such  as diplomas, transcripts, and certifications—remain accurate, immutable, and easily verifiable, reducing fraud and empowering students to own their academic identities.
 
+## Security Considerations
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
