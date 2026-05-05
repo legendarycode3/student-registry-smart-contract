@@ -58,6 +58,8 @@
      forge build
     ```
 
+### Testing the contract (Using Foundry Development Kit ) 
+
 
 ## 📋Contract Details
 ### Functions:
