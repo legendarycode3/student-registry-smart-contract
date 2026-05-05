@@ -5,7 +5,7 @@
 ## 📌 Features
 * ****Student Registration:**** Authorized Users can can add students.
 * ****Track Student Records:**** Student details can be tracked using just their address.
-* ****Access Control:****
+* ****Access Control:****  Restricts access to only owner of the contract or admistrator
 * ****Registered Students:**** All registered students on the system can be tracked.
 * 
 
