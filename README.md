@@ -36,6 +36,7 @@
 * `Remix IDE` or `Foundry Development Kit`
 
 ### Recommendation (For Beginners)
+****NOTE (Use Remix IDE, for quick prototyping):****
 
 ## Usage
 
