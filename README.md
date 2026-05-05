@@ -78,8 +78,8 @@ Runing specific test:
 * ****`i_owner`****: Stores the address of the contract deployer. 
 * ****`studentAddress`****: Keeps track of all registered students.
 
-## Usage Guide (How it works) - When using Remix IDE
-Compile: Compile the contract.
+## Usage Guide (How to use - When using Remix IDE) 
+1. ****Compile:**** Compile the contract.
 
 ## Why This Matters (Student Smart Contract)
 Student registry smart contracts are crucial in web3 blockchain systems because:
