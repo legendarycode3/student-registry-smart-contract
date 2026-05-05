@@ -83,7 +83,7 @@ Runing specific test:
 2. ****Deployment:**** Contract deployment execution.
 3. ****addStudent()****: Registers a student with the addStudent() function , using the owner `"address"` , `"name"`, `"age"` and `"course description"` .
 4. ****getStudentDetails()****: You can then use this function to track a particular registered student on the contract, using just their `"address"` as an id.
-5. ****editStudent()****: 
+5. ****editStudent()****: You can edit the personal details if it already exist (and it can be done only by an admistrator or owner authorized) using student intended new details to be updated , like:, `"_newName"`, `"_newAge"` and `"_newCourse"`
 
 ## Why This Matters (Student Smart Contract)
 Student registry smart contracts are crucial in web3 blockchain systems because:
