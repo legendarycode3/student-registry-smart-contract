@@ -64,6 +64,11 @@ Runing all tests:
     forge test
   ```
 
+Runing specific test:
+  ```shell
+     forge test --mt testFunctionName
+  ```
+
 ## 📋Contract Details
 ### Functions:
 * ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier.
