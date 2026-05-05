@@ -8,7 +8,7 @@
 * ****Access Control:****  Restricts access to only owner of the contract or admistrator
 * ****Registered Students:**** All registered students on the system can be tracked.
 * ****Update Existing Student:**** Student details/data , can be updated , accessible only be the owner.
-* 
+  
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or student details in one collection.
@@ -24,6 +24,7 @@
 * ****`StudentRegistry.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
+* ****Solidity****
 
 ## Getting Started
 
