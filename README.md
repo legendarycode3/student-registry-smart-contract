@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## 📌 Features
-* ****Student Registration:****
+* ****Student Registration:**** Users can register as students.
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or student details in one collection.
