@@ -59,7 +59,7 @@
     ```
 
 ### Testing the contract (Using Foundry Development Kit ) 
-
+Runing all tests:
 
 ## 📋Contract Details
 ### Functions:
