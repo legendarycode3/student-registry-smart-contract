@@ -4,6 +4,7 @@
 
 ## 📌 Features
 * ****Student Registration:**** Authorized Users can can add students.
+* ****Student Details Tracking:****
 
 ## 🧠 Key Concepts Applied
 * ****Struct:**** Sets the user or student details in one collection.
