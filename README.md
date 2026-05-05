@@ -74,8 +74,9 @@ Runing specific test:
 * ****`editStudent()`****: Function for editing an existing student. Only can be the done by the owner of the contract or admistrator.
 
 ### Variables:
-* ****`studentRecords`****: Maps an address to a Student setails.
+* ****`studentRecords`****: Maps an address to a Student details.
 * ****`i_owner`****: Stores the address of the contract deployer.
+* ****`studentAddress`****:
 
 ## Usage Guide (How it works)
 
