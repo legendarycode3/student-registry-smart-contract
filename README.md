@@ -54,6 +54,10 @@
       cd student-registry-smart-contract
     ```
 3.   Compile the smart contract:
+    ```shell
+     forge build
+    ```
+
 
 ## 📋Contract Details
 ### Functions:
