@@ -81,6 +81,7 @@ Runing specific test:
 ## Usage Guide (How it works)
 
 ## Why This Matters (Student Smart Contract)
+Student registry smart contracts are crucial in web3 blockchain systems because:
 
 ## Foundry
 
