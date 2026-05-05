@@ -83,6 +83,7 @@ Runing specific test:
 ## Why This Matters (Student Smart Contract)
 Student registry smart contracts are crucial in web3 blockchain systems because:
 1. They replace traditional, vulnerable, and siloed record-keeping with a decentralized, tamper-proof, and autonomous ledger.
+2. By leveraging blockchain technology, these contracts ensure academic data
 
 ## Foundry
 
