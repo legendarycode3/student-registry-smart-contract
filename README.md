@@ -49,7 +49,7 @@
    ```shell
     git clone https://github.com/legendarycode3/student-registry-smart-contract
    ```
-3. dkd
+2. Navigate to the directory you created and cloned the file to:
 4.   dd
 
 ## 📋Contract Details
