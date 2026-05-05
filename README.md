@@ -24,7 +24,7 @@
 * ****`StudentRegistry.t.sol`****: Unit Test (suite) containing tests to validate contract functionalities.
 
 ## 🌐Technology Stack (Technologies Used)
-* ****Solidity****
+* ****Solidity**** - The programming language for writing the Smart contracts.
 
 ## Getting Started
 
