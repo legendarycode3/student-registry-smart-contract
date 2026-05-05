@@ -81,7 +81,7 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE) 
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Contract deployment execution.
-3. ****addStudent()****: Registers a student with the addStudent() function , using the owner "address" , "name", "age" and "course description" .
+3. ****addStudent()****: Registers a student with the addStudent() function , using the owner `"address"` , `"name"`, "age" and "course description" .
 
 ## Why This Matters (Student Smart Contract)
 Student registry smart contracts are crucial in web3 blockchain systems because:
