@@ -10,7 +10,7 @@ This smart contract allows managing a registry of students only by authorised ad
 * ****Access Control:****  Restricts access to only owner of the contract or admistrator
 * ****Registered Students:**** All registered students on the system can be tracked.
 * ****Update Existing Student:**** Student details/data , can be updated , accessible only be the owner.
-* ****Custom Error:**** Utilized custom error mechanism, for more gas optimization.
+* ****Custom Error:**** implemented custom error mechanism, for more gas optimization.
   
 
 ## 🧠 Key Concepts Applied
@@ -21,6 +21,7 @@ This smart contract allows managing a registry of students only by authorised ad
 * ****Data types:**** Defines the exact nature of data to be stored, ensuring the blockchain knows how to handle, compute, and store it efficiently.
 * ****Custom Error:****  Defined and used custom errors, for gas optimation.
 * ****msg.sender:**** Records who owns the registry(e.g the `owner`).
+* ****address (keyword):****
 
 ## 📂 Project Structure (Files)
 * ****`StudentRegistry.sol`****: : The main contract implementing addStudent, editStudent and getStudentDetails functions.
