@@ -10,6 +10,7 @@ This smart contract allows managing a registry of students only by authorised ad
 * ****Access Control:****  Restricts access to only owner of the contract or admistrator
 * ****Registered Students:**** All registered students on the system can be tracked.
 * ****Update Existing Student:**** Student details/data , can be updated , accessible only be the owner.
+* ****Custom Error:****
   
 
 ## 🧠 Key Concepts Applied
