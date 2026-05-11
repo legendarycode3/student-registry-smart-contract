@@ -74,6 +74,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
+* ****`constructor ()`****:
 * ****`addStudent()`****: Function adds a new student if not existing and also inherit `onlyOwner` modifier.
 * ****`editStudent()`****: Function for editing an existing student. Only can be the done by the owner of the contract or admistrator.
 * ****`getStudentDetails()`****: Function for getting the details of a particulat student.
